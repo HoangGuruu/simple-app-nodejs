@@ -1,4 +1,4 @@
-# node-todo-cicd
+# Install necessary package for this app
 
 Run these commands:
 
